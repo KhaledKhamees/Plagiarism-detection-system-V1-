@@ -1,0 +1,3 @@
+D:/Edu/Courses/Projects/Plagiarism detection project/cmake-build-debug/CMakeFiles/Plagiarism_detection_project.dir
+D:/Edu/Courses/Projects/Plagiarism detection project/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Edu/Courses/Projects/Plagiarism detection project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
